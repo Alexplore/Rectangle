@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.deps.json
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.dll
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.pdb
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.AssemblyInfo.cs
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.dll
+C:\Users\admin\Desktop\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.pdb
